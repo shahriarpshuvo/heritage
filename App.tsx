@@ -1,7 +1,6 @@
 import React from 'react';
-import { Authentication } from './Navigator';
-
-import AppContainer from './AppContainer';
+import { Authentication } from '@app/Navigator';
+import { AppContainer } from '@app/AppContainer';
 
 export default function App() {
   return (

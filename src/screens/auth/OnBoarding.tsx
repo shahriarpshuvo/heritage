@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
-const OnBoarding = () => {
+const OnBoarding = (): React.ReactElement => {
   return (
     <View style={styles.container}>
       <Text style={{ fontFamily: 'DMSerif' }}>Heritage!</Text>
